@@ -17,7 +17,7 @@ insert into appointment values(0101,1,1,'01/01/2024','');
 
 insert into room value(101,'101','vip');
 
-After inserting the data we will select ,update and delete 
+After inserting the data we will select ,update and delete  and other various operations.
 select:
 ![select](https://github.com/user-attachments/assets/fe2727ed-67ea-4201-bcd0-380b0608d6ad)
 
@@ -27,7 +27,15 @@ update:
 delete:
 ![delete](https://github.com/user-attachments/assets/388cdc2c-7c85-4f39-bbce-2a10792b0d9f)
 
+alter:
+![alter](https://github.com/user-attachments/assets/e748e283-4850-4de9-b7fa-76d4fe3d80fc)
 
+inner join:
+
+![inner join](https://github.com/user-attachments/assets/6976c668-26ec-44b4-bd91-c98a44d3d35d)
+left join:
+
+![left join](https://github.com/user-attachments/assets/4a1bc1f8-d533-43d1-bb0c-aedbb5c1b96d)
 
 
 
